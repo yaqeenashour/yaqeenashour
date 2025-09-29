@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am a  **CAP (Computer Applications in the Workplace)** at An-Najah National University .
-This is my journey in learning programming 👩‍💻
+  **CAP (Computer Science Apprenticeship Program )** at An-Najah National University👩‍💻 .
+
 <!--
 **yaqeenashour/yaqeenashour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
