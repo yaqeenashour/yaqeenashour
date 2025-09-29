@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yaqeen Ashour 👋</h1>
 
 <p align="center">
-  <img src="C:\Users\hp\OneDrive\Bilder\a35d4d7c437f5766e75fac848f106312.jpg"/>
+  <img src="C:/Users/hp/OneDrive/Bilder/a35d4d7c437f5766e75fac848f106312.jpg"/>
 </p>
 
 <p align="center">
