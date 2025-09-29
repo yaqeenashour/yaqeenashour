@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yaqeen Ashour 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/YaqeenAshour/my-profile-readme/blob/main/images/profile.jpg?raw=true" width="200" alt="Yaqeen Ashour"/>
+  <img src="https://github.com/YaqeenAshour/my-profile-readme/blob/main/images/profile.jpg?raw=true" width="200" alt="yaqeenashour"/>
 "/>
 </p>
 
