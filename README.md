@@ -7,6 +7,6 @@
 </p>
 
 <a href="https://github.com/username/project">
-  <img src="images/Dalouna%20bg.png" alt="مشروعي" width="600">
+  <img src="images/bg.png" alt="مشروعي" width="600">
 </a>
 
