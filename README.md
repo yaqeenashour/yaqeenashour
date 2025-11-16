@@ -7,4 +7,4 @@
 </p>
 
 
-(https://via.placeholder.com/600x200.png?text=Dalouna+Project)  
+https://via.placeholder.com/600x200.png?text=Dalouna+Project 
