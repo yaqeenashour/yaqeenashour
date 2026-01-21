@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 I'm Yaqen Ashour,
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Yaqeen. " src="./assets/gh-readme-header.png" /></a></p>
 
 A **Software Engineering / Computer Science student & Programmer** passionate about **Web Development** 🌐 and **Problem Solving** 🧠. I like building clean, interactive web applications, working with modern technologies, and continuously improving my coding skills.
 
