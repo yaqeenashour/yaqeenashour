@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello+Coders+%F0%9F%91%8B;I'm+Yaqen+Ashour;Software+Engineering+Student" />
 
 A **Software Engineering / Computer Science student & Programmer** passionate about **Web Development** 🌐 and **Problem Solving** 🧠. I like building clean, interactive web applications, working with modern technologies, and continuously improving my coding skills.
 
