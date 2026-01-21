@@ -1,5 +1,4 @@
-![License](https://img.shields.io/github/license/Yaqen-Ashour/Yaqen-Ashour?style=flat)
-![ViewCount](http://bit.ly/Yaqen-Github-Visits)
+
 
 ### Hi there 👋 I'm Yaqen Ashour,
 
