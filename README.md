@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Yaqeen. " src="./assets/gh-readme-header.png" /></a></p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 
 A **Software Engineering / Computer Science student & Programmer** passionate about **Web Development** 🌐 and **Problem Solving** 🧠. I like building clean, interactive web applications, working with modern technologies, and continuously improving my coding skills.
 
