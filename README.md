@@ -32,7 +32,7 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 
   <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="500">
       <a href="https://yaqeenashour.github.io/dalouna-12429716/">
         <img src="https://raw.githubusercontent.com/yaqeenashour/dalouna-12429716/main/images/Screenshot%202026-01-22%20163816.png" width="280"/>
       </a>
@@ -40,8 +40,7 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
       <p>Responsive restaurant website built with HTML, CSS, and JavaScript.</p>
       <a href="https://github.com/yaqeenashour/dalouna-12429716">🔗 GitHub Repo</a>
     </td>
-	  
-	  <td align="center" width="320">
+	  <td>
   <a href="https://yaqeenashour.github.io/web-fundamentals-todo/">
     <img 
       src="https://raw.githubusercontent.com/yaqeenashour/web-fundamentals-todo/main/Screenshot%202026-01-22%20165136.png" 
@@ -61,7 +60,7 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 
   </tr>
 
-		   
+<tr>	   
  <td align="center" width="320">
   <a href="https://ahmadessawii06.github.io/najahi/">
     <img 
@@ -82,10 +81,11 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
     🔗 View on GitHub
   </a>
 </td>
+</tr> 
 
   
 </table>
----
+
 
 <p align="center">
   🌱 Always learning & improving <br/>
