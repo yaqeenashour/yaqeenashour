@@ -34,7 +34,9 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
   <tr>
     <td align="center" width="500">
       <a href="https://yaqeenashour.github.io/dalouna-12429716/">
-        <img src="https://raw.githubusercontent.com/yaqeenashour/dalouna-12429716/main/images/Screenshot%202026-01-22%20163816.png" width="500" height="700"/>
+		  <div class="project-image">
+        <img src="https://raw.githubusercontent.com/yaqeenashour/dalouna-12429716/main/images/Screenshot%202026-01-22%20163816.png" width="500" />
+		  </div>
       </a>
       <h3>Dalouna Restaurant</h3>
       <p>Responsive restaurant website built with HTML, CSS, and JavaScript.</p>
@@ -59,6 +61,19 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 </td>
 
   </tr>
+.project-image {
+  width: 100%;
+  height: 250px;        
+  overflow: hidden;
+  border-radius: 10px; 
+}
+
+.project-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   
+  display: block;
+}
 
 <tr>	   
  <td align="center" width="500">
