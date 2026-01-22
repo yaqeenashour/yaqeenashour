@@ -40,19 +40,25 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
       </a>
     </td>
 
-   
-  </tr>
-   <tr>
     <td align="center">
       <a href="https://yaqeenashour.github.io/web-fundamentals-todo/">
-        <img src="https://github.com/yaqeenashour/web-fundamentals-todo/blob/main/Screenshot%202026-01-22%20165136.png" width="550"/>
+        <img src="https://github.com/yaqeenashour/web-fundamentals-todo/blob/main/Screenshot%202026-01-22%20165136.png" width="350"/>
         <br />
         <b>To-do list</b>
       </a>
     </td>
-
    
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://ahmadessawii06.github.io/najahi/">
+        <img src="https://github.com/ahmadessawii06/najahi/blob/main/Screenshot%202026-01-22%20165514.png" width="550"/>
+        <br />
+        <b>Dalouna Project</b>
+      </a>
+    </td>
+  </tr>
+  
 </table>
 
 
