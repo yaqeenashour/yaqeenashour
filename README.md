@@ -30,34 +30,67 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 
 🚀 My Projects
 
-<table>
+  <table align="center">
   <tr>
-    <td>
+    <td align="center" width="300">
       <a href="https://yaqeenashour.github.io/dalouna-12429716/">
-        <img src="https://github.com/yaqeenashour/dalouna-12429716/blob/main/images/Screenshot%202026-01-22%20163816.png" width="550"/>
-        <br />
-        <b>Dalouna Project</b>
+        <img src="https://raw.githubusercontent.com/yaqeenashour/dalouna-12429716/main/images/Screenshot%202026-01-22%20163816.png" width="280"/>
       </a>
-	</td>
-	  <td>
-		     <a href="https://yaqeenashour.github.io/web-fundamentals-todo/">
-        <img src="https://github.com/yaqeenashour/web-fundamentals-todo/blob/main/Screenshot%202026-01-22%20165136.png" width="350"/>
-        <br />
-        <b>To-do list</b>
-      </a>
-	  </td>
-	</tr>
-  <tr>
-    <td align="center">
-      <a href="https://ahmadessawii06.github.io/najahi/">
-        <img src="https://github.com/ahmadessawii06/najahi/blob/main/Screenshot%202026-01-22%20165514.png" width="550"/>
-        <br />
-        <b>Educational Website built with React</b>
-      </a>
+      <h3>Dalouna Restaurant</h3>
+      <p>Responsive restaurant website built with HTML, CSS, and JavaScript.</p>
+      <a href="https://github.com/yaqeenashour/dalouna-12429716">🔗 GitHub Repo</a>
     </td>
+	  
+	  <td align="center" width="320">
+  <a href="https://yaqeenashour.github.io/web-fundamentals-todo/">
+    <img 
+      src="https://raw.githubusercontent.com/yaqeenashour/web-fundamentals-todo/main/Screenshot%202026-01-22%20165136.png" 
+      width="280"
+      alt="To-Do List Project Preview"
+    />
+  </a>
+  <h3>To-Do List App</h3>
+  <p>
+    A simple and interactive to-do list application built using
+    HTML, CSS, and JavaScript.
+  </p>
+  <a href="https://github.com/yaqeenashour/web-fundamentals-todo">
+    🔗 View on GitHub
+  </a>
+</td>
+
   </tr>
+
+		   
+ <td align="center" width="320">
+  <a href="https://ahmadessawii06.github.io/najahi/">
+    <img 
+      src="https://raw.githubusercontent.com/ahmadessawii06/najahi/main/Screenshot%202026-01-22%20165514.png"
+      width="280"
+      alt="Educational Website React Preview"
+    />
+  </a>
+
+  <h3>Educational React Website</h3>
+
+  <p>
+    An educational web application built with React that provides
+    interactive learning content.
+  </p>
+
+  <a href="https://github.com/ahmadessawii06/najahi">
+    🔗 View on GitHub
+  </a>
+</td>
+
   
 </table>
+---
+
+<p align="center">
+  🌱 Always learning & improving <br/>
+  ⭐ Feel free to check my repositories
+</p>
 
 
 <!--
