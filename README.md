@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello+Coders+%F0%9F%91%8B;I'm+Yaqen+Ashour;Software+Engineering+Student" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello+Coders+%F0%9F%91%8B;I'm+Yaqeen+Ashour;Software+Engineering+Student" />
 
 A **Software Engineering / Computer Science student & Programmer** passionate about **Web Development** 🌐 and **Problem Solving** 🧠. I like building clean, interactive web applications, working with modern technologies, and continuously improving my coding skills.
 
@@ -37,6 +37,17 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
         <img src="https://github.com/yaqeenashour/dalouna-12429716/blob/main/images/Screenshot%202026-01-22%20163816.png" width="550"/>
         <br />
         <b>Dalouna Project</b>
+      </a>
+    </td>
+
+   
+  </tr>
+   <tr>
+    <td align="center">
+      <a href="https://yaqeenashour.github.io/web-fundamentals-todo/">
+        <img src="https://github.com/yaqeenashour/web-fundamentals-todo/blob/main/Screenshot%202026-01-22%20165136.png" width="550"/>
+        <br />
+        <b>To-do list</b>
       </a>
     </td>
 
