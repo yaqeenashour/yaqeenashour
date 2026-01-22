@@ -1,4 +1,3 @@
-<img width="1893" height="896" alt="image" src="https://github.com/user-attachments/assets/a8de9a8b-3fe6-4c96-8294-4611562934c1" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello+Coders+%F0%9F%91%8B;I'm+Yaqen+Ashour;Software+Engineering+Student" />
 
