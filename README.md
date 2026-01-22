@@ -34,7 +34,7 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
   <tr>
     <td align="center">
       <a href="https://yaqeenashour.github.io/dalouna-12429716/">
-        <img src="https://github.com/yaqeenashour/dalouna-12429716/blob/main/images/Screenshot%202026-01-22%20163816.png" width="250"/>
+        <img src="https://github.com/yaqeenashour/dalouna-12429716/blob/main/images/Screenshot%202026-01-22%20163816.png" width="550"/>
         <br />
         <b>Dalouna Project</b>
       </a>
