@@ -96,9 +96,16 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
  <td align="center" width="500">
     <img 
       src="https://github.com/AyshaOsama2006/fitness-time/blob/master/src/assets/photos/screencapture-fitness-time-production-up-railway-app-home-2026-05-17-05_47_38.png"
-      width="500" 
+      width="100" 
       alt=" Fitness & Nutrition web application"
     />
+	  <img 
+      src="https://github.com/AyshaOsama2006/fitness-time/blob/master/src/assets/photos/screencapture-fitness-time-production-up-railway-app-trainerspage-2026-05-17-05_48_54.png"
+      width="100" 
+      alt=" Fitness & Nutrition web application"
+    />
+
+	 
   </a>
 
   <h3> Fitness & Nutrition Web Application</h3>
