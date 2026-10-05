@@ -26,6 +26,10 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 	<img title="VS Code" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Oracle" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+		<img title="Java" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+			<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+
+
 </p>
 
 🚀 My Projects
