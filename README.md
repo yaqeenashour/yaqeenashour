@@ -108,12 +108,11 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 
   </p>
 
-  <a href="  <a href="https://github.com/AyshaOsama2006/fitness-time">
-  <a href="https://github.com/AyshaOsama2006/fitness-time-backend"
-	  
-	      🔗 View on GitHub
->
-
+  <a href="https://github.com/AyshaOsama2006/fitness-time">
+  </a>
+  <a href="https://github.com/AyshaOsama2006/fitness-time-backend">
+	  🔗 View on GitHub
+  </a>
 </td>
 </tr> 
 
