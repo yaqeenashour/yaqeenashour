@@ -95,7 +95,7 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
 
  <td align="center" width="500">
     <img 
-      src="https://raw.githubusercontent.com/ahmadessawii06/najahi/main/Screenshot%202026-01-22%20165514.png"
+      src="https://github.com/AyshaOsama2006/fitness-time/blob/master/src/assets/photos/screencapture-fitness-time-production-up-railway-app-home-2026-05-17-05_47_38.png"
       width="500" 
       alt=" Fitness & Nutrition web application"
     />
@@ -109,10 +109,11 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
   </p>
 
   <a href="  <a href="https://github.com/AyshaOsama2006/fitness-time">
-  <a href="  <a href="https://github.com/AyshaOsama2006/fitness-time-backend">
+  <a href="https://github.com/AyshaOsama2006/fitness-time-backend"
+	  
+	      🔗 View on GitHub
+>
 
-    🔗 View on GitHub
-  </a>
 </td>
 </tr> 
 
