@@ -90,6 +90,30 @@ A **Software Engineering / Computer Science student & Programmer** passionate ab
     🔗 View on GitHub
   </a>
 </td>
+
+
+
+ <td align="center" width="500">
+    <img 
+      src="https://raw.githubusercontent.com/ahmadessawii06/najahi/main/Screenshot%202026-01-22%20165514.png"
+      width="500" 
+      alt=" Fitness & Nutrition web application"
+    />
+  </a>
+
+  <h3> Fitness & Nutrition Web Application</h3>
+
+  <p>
+    Fitness & Nutrition web application Built using React, Node.js, Express.js, and MySQL.
+
+  </p>
+
+  <a href="  <a href="https://github.com/AyshaOsama2006/fitness-time">
+  <a href="  <a href="https://github.com/AyshaOsama2006/fitness-time-backend">
+
+    🔗 View on GitHub
+  </a>
+</td>
 </tr> 
 
   
